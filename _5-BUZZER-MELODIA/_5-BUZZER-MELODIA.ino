@@ -1,7 +1,7 @@
 //incluimos en nuestro programa una biblioteca externa
 #include "NOTAS.h"   
 
-/definimos una array donde guardamos todas las notas de la melodia que queremos tocar
+//definimos una array donde guardamos todas las notas de la melodia que queremos tocar
 int tetris[] = {
   LA_6, MI_6, FA_6, RE_6, RE_6, FA_6, LA_6, SOL_6, FA_6, MI_6, MI_6, FA_6, SOL_6, LA_6,
   FA_6, RE_6, RE_6, SOL_6, LAS_6, 
@@ -46,7 +46,3 @@ void loop()
     noTone(8);
   }
 }
-
-
-
-
