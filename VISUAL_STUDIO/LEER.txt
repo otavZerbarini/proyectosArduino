@@ -1,0 +1,30 @@
+Ejemplo de programas para comunicar un Arduino con una PC.
+
+Para probarlos hace falta tener instalado:
+
+	1: Visual Studio en la PC
+	descargar la version community que es gratuita: https://visualstudio.microsoft.com/es/downloads/ 
+
+	2: Arduino IDE en la PC
+	descargar gratis:  https://www.arduino.cc/en/Main/Software
+
+Una vez descargados e instalados los entornos de desarrollo de ambos lenguajes (IDE) cargar en el arduino el codigo ComPCArduino.ino,
+y abrir en la pc la solucion de Visual Studio ComArduinoPC.sln (haciendo doble click en el archivo).
+
+En el proyecto de Arduino hay un comentario inicial que explica como conectar la parte electronica.
+
+Una vez que esta armado el circuito electronico en el protoboard, cargado el codigo al Arduino, y la solucion de Visual estudio abierta, 
+hacer clik en el boton que parece un play que dice Iniciar (en Visual Studio)
+Con el programa ejecutando en la PC hacer click en el boton 1 (deberia prender un led), hacer click en el boton 2 (deberia prender otro led),
+hacer click en el boton 3 (deberia apagar el primer led), hacer click en el boton 4 (deberia apagar el segundo led).
+Hacer click en el boton Pedir (deberia mostrar en la caja de texto el valor del potenciometro concetado en A0) 
+Probar girar el potenciometro y volver a hacer click en Pedir para ver si cambia el valor recibido.
+
+El ejemplo este es muy basico, sin embargo puede ser util para probar la comunicacion a traves del puerto serie de la pc.
+Ademas nos servira como base para hacerlo crecer como proyecto. 
+Para Visual Studio y lenguaje C# hay miles de ejemplos en la web.
+Por ejemplo si quisieramos trabajar persistiendo datos nos seria muy facil agregar codigo nuevo para esta tarea. 
+Podriamos leer o escribir datos en archivos, ya sea de texto, planillas excel, bases de datos mas complejas como SQL Server, etc.
+Podriamos hacer programas complejos con todas las caracteristicas de cualquier programa de escritorio profesional,
+ con el agregado de controles alternativos personalizados creados con un Arduino.
+

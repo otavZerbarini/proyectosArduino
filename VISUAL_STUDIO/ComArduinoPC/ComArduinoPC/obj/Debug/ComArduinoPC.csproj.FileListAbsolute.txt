@@ -1,0 +1,10 @@
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoPC\ComArduinoPC\obj\Debug\ComArduinoPC.csprojAssemblyReference.cache
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoPC\ComArduinoPC\obj\Debug\ComArduinoPC.Form1.resources
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoPC\ComArduinoPC\obj\Debug\ComArduinoPC.Properties.Resources.resources
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoPC\ComArduinoPC\obj\Debug\ComArduinoPC.csproj.GenerateResource.cache
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoPC\ComArduinoPC\obj\Debug\ComArduinoPC.csproj.CoreCompileInputs.cache
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoPC\ComArduinoPC\bin\Debug\ComArduinoPC.exe.config
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoPC\ComArduinoPC\bin\Debug\ComArduinoPC.exe
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoPC\ComArduinoPC\bin\Debug\ComArduinoPC.pdb
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoPC\ComArduinoPC\obj\Debug\ComArduinoPC.exe
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoPC\ComArduinoPC\obj\Debug\ComArduinoPC.pdb
