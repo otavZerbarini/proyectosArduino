@@ -1,0 +1,15 @@
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\bin\Debug\comArduinoVideo.exe.config
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\bin\Debug\comArduinoVideo.exe
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\bin\Debug\comArduinoVideo.pdb
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\bin\Debug\Interop.WMPLib.dll
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\obj\Debug\comArduinoVideo.csprojAssemblyReference.cache
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\obj\Debug\Interop.WMPLib.dll
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\obj\Debug\comArduinoVideo.csproj.ResolveComReference.cache
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\obj\Debug\comArduinoVideo.Form1.resources
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\obj\Debug\comArduinoVideo.Properties.Resources.resources
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\obj\Debug\comArduinoVideo.csproj.GenerateResource.cache
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\obj\Debug\comArduinoVideo.csproj.CoreCompileInputs.cache
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\obj\Debug\comArduinoVideo.exe
+C:\Users\Noblex\Downloads\OTAV ROBOTICA 1C 2019\MATERIAL PARA CLASES\CODIGO\proyectosArduino\VISUAL_STUDIO\ComArduinoVideo\comArduinoVideo\comArduinoVideo\obj\Debug\comArduinoVideo.pdb

@@ -49,9 +49,9 @@
             this.btnSiete = new System.Windows.Forms.Button();
             this.btnCuatro = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.label2 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.SuspendLayout();
@@ -288,6 +288,15 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "RECIBIR DATOS A PEDIDO";
             // 
+            // label2
+            // 
+            this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.label2.Location = new System.Drawing.Point(11, 235);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(91, 67);
+            this.label2.TabIndex = 26;
+            this.label2.Text = "El mensaje que envia Arduino es el valor leido del potenciometro";
+            // 
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.label1);
@@ -323,20 +332,11 @@
             this.label1.TabIndex = 25;
             this.label1.Text = resources.GetString("label1.Text");
             // 
-            // label2
-            // 
-            this.label2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
-            this.label2.Location = new System.Drawing.Point(11, 235);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(91, 67);
-            this.label2.TabIndex = 26;
-            this.label2.Text = "El mensaje que envia Arduino es el valor leido del potenciometro";
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(431, 351);
+            this.ClientSize = new System.Drawing.Size(443, 351);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "Form1";

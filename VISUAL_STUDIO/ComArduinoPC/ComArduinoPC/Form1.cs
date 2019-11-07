@@ -17,10 +17,17 @@ namespace ComArduinoPC
         #region funciones
         public void iniciarPuertoSerie()
         {
-            arduino = new SerialPort();
-            arduino.PortName = "COM6";//Chequear el COM desde el IDE de Arduino
-            arduino.BaudRate = 9600;
-            arduino.Open();
+            try
+            {
+                arduino = new SerialPort();
+                arduino.PortName = "COM6";//Chequear el COM desde el IDE de Arduino
+                arduino.BaudRate = 9600;
+                arduino.Open();
+            }
+            catch
+            {
+                MessageBox.Show("Error al intentar abrir el puerto de comunicacion serial, chequear que el Arduino se encuentra conectado en el puerto correspondiente");
+            }
         }
         #endregion
 
@@ -147,5 +154,6 @@ namespace ComArduinoPC
             enviar("D");
         }
         #endregion
+
     }
 }
